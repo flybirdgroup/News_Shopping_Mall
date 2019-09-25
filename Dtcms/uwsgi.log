@@ -1,0 +1,316 @@
+*** Starting uWSGI 2.0.17 (64bit) on [Wed Oct 24 13:32:47 2018] ***
+compiled with version: 5.4.0 20160609 on 02 May 2018 21:45:13
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/python/code01/Cms/Dtcms
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/django_py3/bin/uwsgi
+chdir() to /home/python/code/meiduo/meiduo_mall
+your processes number limit is 31709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.210.160:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:43355 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/django_py3/
+Python main interpreter initialized at 0xc41620
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+failed to open python file Dtcms/wsgi.py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24822)
+spawned uWSGI worker 1 (pid: 24823, cores: 2)
+spawned uWSGI worker 2 (pid: 24824, cores: 2)
+spawned uWSGI worker 3 (pid: 24825, cores: 2)
+spawned uWSGI worker 4 (pid: 24826, cores: 2)
+spawned uWSGI http 1 (pid: 24827)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 24827)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.17 (64bit) on [Wed Oct 24 13:35:01 2018] ***
+compiled with version: 5.4.0 20160609 on 02 May 2018 21:45:13
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/python/code01/Cms/Dtcms
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/django_py3/bin/uwsgi
+chdir() to /home/python/code01/Cms/Dtcms
+your processes number limit is 31709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.210.160:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:43133 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/django_py3/
+Python main interpreter initialized at 0x116f620
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x116f620 pid: 24935 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 24935)
+spawned uWSGI worker 1 (pid: 24944, cores: 2)
+spawned uWSGI worker 2 (pid: 24945, cores: 2)
+spawned uWSGI worker 3 (pid: 24947, cores: 2)
+spawned uWSGI worker 4 (pid: 24949, cores: 2)
+spawned uWSGI http 1 (pid: 24952)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 1/1] 192.168.210.160 () {36 vars in 564 bytes} [Wed Oct 24 13:36:17 2018] GET / => generated 58849 bytes in 95 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 2/2] 192.168.210.160 () {34 vars in 491 bytes} [Wed Oct 24 13:36:17 2018] GET /favicon.ico => generated 58782 bytes in 42 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 3/3] 192.168.210.160 () {34 vars in 551 bytes} [Wed Oct 24 13:36:17 2018] GET /favicon.ico => generated 58842 bytes in 35 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24947|app: 0|req: 1/4] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:02 2018] GET / => generated 58984 bytes in 74 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24947|app: 0|req: 2/5] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:03 2018] GET / => generated 58984 bytes in 31 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 4/6] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:04 2018] GET / => generated 58984 bytes in 33 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 5/7] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:06 2018] GET / => generated 58984 bytes in 30 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24947|app: 0|req: 3/8] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:07 2018] GET / => generated 58984 bytes in 28 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.17 (64bit) on [Wed Oct 24 13:37:16 2018] ***
+compiled with version: 5.4.0 20160609 on 02 May 2018 21:45:13
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/python/code01/Cms/Dtcms
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/django_py3/bin/uwsgi
+chdir() to /home/python/code01/Cms/Dtcms
+your processes number limit is 31709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (192.168.210.160:8000).
+bind(): Address already in use [core/socket.c line 769]
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24944|app: 0|req: 1/9] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:19 2018] GET / => generated 58984 bytes in 74 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24947|app: 0|req: 4/10] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:20 2018] GET / => generated 58984 bytes in 31 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 6/11] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:21 2018] GET / => generated 58984 bytes in 29 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24947|app: 0|req: 5/12] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:22 2018] GET / => generated 58984 bytes in 32 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24947|app: 0|req: 6/13] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:23 2018] GET / => generated 58984 bytes in 31 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 7/14] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:24 2018] GET / => generated 58984 bytes in 30 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 8/15] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:25 2018] GET / => generated 58984 bytes in 30 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '192.168.210.160:8000'. You may need to add '192.168.210.160' to ALLOWED_HOSTS.
+[pid: 24949|app: 0|req: 9/16] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:26 2018] GET / => generated 58984 bytes in 33 msecs (HTTP/1.1 400) 1 headers in 53 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.17 (64bit) on [Wed Oct 24 13:37:50 2018] ***
+compiled with version: 5.4.0 20160609 on 02 May 2018 21:45:13
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/python/code01/Cms/Dtcms
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/django_py3/bin/uwsgi
+chdir() to /home/python/code01/Cms/Dtcms
+your processes number limit is 31709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 192.168.210.160:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:46308 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/django_py3/
+Python main interpreter initialized at 0x12ef620
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x12ef620 pid: 25065 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25065)
+spawned uWSGI worker 1 (pid: 25069, cores: 2)
+spawned uWSGI worker 2 (pid: 25070, cores: 2)
+spawned uWSGI worker 3 (pid: 25072, cores: 2)
+spawned uWSGI worker 4 (pid: 25074, cores: 2)
+spawned uWSGI http 1 (pid: 25076)
+[pid: 25072|app: 0|req: 1/1] 192.168.210.160 () {38 vars in 595 bytes} [Wed Oct 24 13:37:53 2018] GET / => generated 5465 bytes in 155 msecs (HTTP/1.1 200) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[pid: 25072|app: 0|req: 3/2] 192.168.210.160 () {36 vars in 614 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/css/bootstrap.min.css => generated 6596 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 25072|app: 0|req: 3/3] 192.168.210.160 () {36 vars in 620 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/css/bootstrap-tweaks.css => generated 6605 bytes in 13 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/csrf.js
+[pid: 25074|app: 0|req: 2/4] 192.168.210.160 () {36 vars in 593 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/prettify-min.js => generated 6587 bytes in 133 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 25074|app: 0|req: 2/5] 192.168.210.160 () {36 vars in 577 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/csrf.js => generated 6563 bytes in 133 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/js/ajax-form.js
+[pid: 25069|app: 0|req: 2/6] 192.168.210.160 () {36 vars in 604 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/css/prettify.css => generated 6581 bytes in 150 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 25069|app: 0|req: 2/7] 192.168.210.160 () {36 vars in 587 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/ajax-form.js => generated 6578 bytes in 146 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/default.js
+[pid: 25074|app: 0|req: 4/8] 192.168.210.160 () {36 vars in 595 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/bootstrap.min.js => generated 6590 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 25074|app: 0|req: 4/9] 192.168.210.160 () {36 vars in 583 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/default.js => generated 6572 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+Not Found: /static/rest_framework/css/default.css
+[pid: 25070|app: 0|req: 2/10] 192.168.210.160 () {36 vars in 601 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/jquery-3.3.1.min.js => generated 6599 bytes in 178 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 25070|app: 0|req: 2/11] 192.168.210.160 () {36 vars in 602 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/css/default.css => generated 6578 bytes in 179 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+[pid: 25074|app: 0|req: 5/12] 192.168.210.160 () {38 vars in 630 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/jquery-3.3.1.min.js => generated 6599 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/ajax-form.js
+[pid: 25072|app: 0|req: 4/13] 192.168.210.160 () {38 vars in 617 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/ajax-form.js => generated 6578 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/csrf.js
+[pid: 25074|app: 0|req: 6/14] 192.168.210.160 () {38 vars in 607 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/csrf.js => generated 6563 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/bootstrap.min.js
+[pid: 25072|app: 0|req: 5/15] 192.168.210.160 () {38 vars in 625 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/bootstrap.min.js => generated 6590 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/prettify-min.js
+[pid: 25070|app: 0|req: 3/16] 192.168.210.160 () {38 vars in 623 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/prettify-min.js => generated 6587 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/default.js
+[pid: 25070|app: 0|req: 4/17] 192.168.210.160 () {38 vars in 613 bytes} [Wed Oct 24 13:37:53 2018] GET /static/rest_framework/js/default.js => generated 6572 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 25074|app: 0|req: 7/18] 192.168.210.160 () {38 vars in 594 bytes} [Wed Oct 24 13:37:55 2018] GET / => generated 5465 bytes in 36 msecs (HTTP/1.1 200) 5 headers in 159 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+[pid: 25074|app: 0|req: 8/19] 192.168.210.160 () {38 vars in 631 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/jquery-3.3.1.min.js => generated 6599 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/bootstrap.min.js
+[pid: 25070|app: 0|req: 5/20] 192.168.210.160 () {38 vars in 626 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/bootstrap.min.js => generated 6590 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/ajax-form.js
+[pid: 25074|app: 0|req: 9/22] 192.168.210.160 () {38 vars in 617 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/ajax-form.js => generated 6578 bytes in 8 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 25069|app: 0|req: 3/22] 192.168.210.160 () {38 vars in 608 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/csrf.js => generated 6563 bytes in 8 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/prettify-min.js
+[pid: 25072|app: 0|req: 6/23] 192.168.210.160 () {38 vars in 624 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/prettify-min.js => generated 6587 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[pid: 25069|app: 0|req: 4/25] 192.168.210.160 () {38 vars in 651 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/css/bootstrap-tweaks.css => generated 6605 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 25074|app: 0|req: 10/25] 192.168.210.160 () {38 vars in 614 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/default.js => generated 6572 bytes in 7 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/css/default.css
+[pid: 25070|app: 0|req: 6/26] 192.168.210.160 () {38 vars in 633 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/css/default.css => generated 6578 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 25072|app: 0|req: 8/27] 192.168.210.160 () {38 vars in 645 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/css/bootstrap.min.css => generated 6596 bytes in 10 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/css/prettify.css
+[pid: 25072|app: 0|req: 8/28] 192.168.210.160 () {38 vars in 635 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/css/prettify.css => generated 6581 bytes in 13 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/jquery-3.3.1.min.js
+[pid: 25070|app: 0|req: 7/29] 192.168.210.160 () {38 vars in 632 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/jquery-3.3.1.min.js => generated 6599 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/ajax-form.js
+[pid: 25072|app: 0|req: 9/30] 192.168.210.160 () {38 vars in 618 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/ajax-form.js => generated 6578 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/csrf.js
+[pid: 25072|app: 0|req: 10/31] 192.168.210.160 () {38 vars in 608 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/csrf.js => generated 6563 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/bootstrap.min.js
+[pid: 25074|app: 0|req: 11/32] 192.168.210.160 () {38 vars in 626 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/bootstrap.min.js => generated 6590 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/rest_framework/js/prettify-min.js
+[pid: 25074|app: 0|req: 12/33] 192.168.210.160 () {38 vars in 624 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/prettify-min.js => generated 6587 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /static/rest_framework/js/default.js
+[pid: 25069|app: 0|req: 5/34] 192.168.210.160 () {38 vars in 614 bytes} [Wed Oct 24 13:37:56 2018] GET /static/rest_framework/js/default.js => generated 6572 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+*** Starting uWSGI 2.0.17 (64bit) on [Wed Oct 24 13:40:28 2018] ***
+compiled with version: 5.4.0 20160609 on 02 May 2018 21:45:13
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/python/code01/Cms/Dtcms
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/django_py3/bin/uwsgi
+chdir() to /home/python/code01/Cms/Dtcms
+your processes number limit is 31709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:42582 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/django_py3/
+Python main interpreter initialized at 0x7ad620
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7ad620 pid: 25247 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25247)
+spawned uWSGI worker 1 (pid: 25251, cores: 2)
+spawned uWSGI worker 2 (pid: 25252, cores: 2)
+spawned uWSGI worker 3 (pid: 25254, cores: 2)
+spawned uWSGI worker 4 (pid: 25256, cores: 2)
+spawned uWSGI http 1 (pid: 25258)
+[pid: 25251|app: 0|req: 1/1] 127.0.0.1 () {40 vars in 619 bytes} [Wed Oct 24 13:40:34 2018] GET /news/top/ => generated 82206 bytes in 238 msecs (HTTP/1.1 200) 7 headers in 252 bytes (1 switches on core 0)
+[pid: 25254|app: 0|req: 1/2] 127.0.0.1 () {40 vars in 629 bytes} [Wed Oct 24 13:40:34 2018] GET /news/category/ => generated 167897 bytes in 297 msecs (HTTP/1.1 200) 7 headers in 253 bytes (1 switches on core 0)
+[pid: 25256|app: 0|req: 1/3] 127.0.0.1 () {38 vars in 592 bytes} [Wed Oct 24 13:40:34 2018] GET /cart/count/ => generated 17 bytes in 120 msecs (HTTP/1.1 200) 7 headers in 249 bytes (1 switches on core 0)
+[pid: 25254|app: 0|req: 2/4] 127.0.0.1 () {38 vars in 603 bytes} [Wed Oct 24 13:41:24 2018] GET /goods/recommend/ => generated 18758 bytes in 68 msecs (HTTP/1.1 200) 7 headers in 252 bytes (1 switches on core 1)
+[pid: 25256|app: 0|req: 2/5] 127.0.0.1 () {38 vars in 601 bytes} [Wed Oct 24 13:41:24 2018] GET /goods/category/ => generated 76323 bytes in 196 msecs (HTTP/1.1 200) 7 headers in 252 bytes (1 switches on core 0)
+[pid: 25254|app: 0|req: 3/6] 127.0.0.1 () {38 vars in 593 bytes} [Wed Oct 24 13:41:24 2018] GET /cart/count/ => generated 17 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 249 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.17 (64bit) on [Wed Oct 24 13:44:56 2018] ***
+compiled with version: 5.4.0 20160609 on 02 May 2018 21:45:13
+os: Linux-4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016
+nodename: ubuntu
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/python/Desktop/Cms/Dtcms
+writing pidfile to uwsgi.pid
+detected binary path: /home/python/.virtualenvs/django_py3/bin/uwsgi
+chdir() to /home/python/Desktop/Cms/Dtcms
+your processes number limit is 31709
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:44869 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/python/.virtualenvs/django_py3/
+Python main interpreter initialized at 0xdfc470
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416880 bytes (407 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xdfc470 pid: 25804 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25804)
+spawned uWSGI worker 1 (pid: 25808, cores: 2)
+spawned uWSGI worker 2 (pid: 25809, cores: 2)
+spawned uWSGI worker 3 (pid: 25811, cores: 2)
+spawned uWSGI worker 4 (pid: 25813, cores: 2)
+spawned uWSGI http 1 (pid: 25815)
+[pid: 25811|app: 0|req: 2/1] 127.0.0.1 () {40 vars in 621 bytes} [Wed Oct 24 13:45:07 2018] GET /news/top/ => generated 82206 bytes in 238 msecs (HTTP/1.1 200) 6 headers in 192 bytes (1 switches on core 0)
+[pid: 25809|app: 0|req: 1/2] 127.0.0.1 () {38 vars in 594 bytes} [Wed Oct 24 13:45:07 2018] GET /cart/count/ => generated 17 bytes in 129 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 25811|app: 0|req: 2/3] 127.0.0.1 () {40 vars in 631 bytes} [Wed Oct 24 13:45:07 2018] GET /news/category/ => generated 167897 bytes in 260 msecs (HTTP/1.1 200) 6 headers in 193 bytes (1 switches on core 1)
+[pid: 25813|app: 0|req: 1/4] 127.0.0.1 () {38 vars in 590 bytes} [Wed Oct 24 13:45:09 2018] GET /news/top/ => generated 82206 bytes in 218 msecs (HTTP/1.1 200) 6 headers in 192 bytes (1 switches on core 0)
+[pid: 25808|app: 0|req: 1/5] 127.0.0.1 () {40 vars in 631 bytes} [Wed Oct 24 13:45:09 2018] GET /news/category/ => generated 167897 bytes in 254 msecs (HTTP/1.1 200) 6 headers in 193 bytes (1 switches on core 0)
+[pid: 25808|app: 0|req: 2/6] 127.0.0.1 () {40 vars in 633 bytes} [Wed Oct 24 13:45:12 2018] GET /goods/recommend/ => generated 18758 bytes in 56 msecs (HTTP/1.1 200) 7 headers in 252 bytes (1 switches on core 1)
+[pid: 25813|app: 0|req: 2/7] 127.0.0.1 () {40 vars in 631 bytes} [Wed Oct 24 13:45:12 2018] GET /goods/category/ => generated 76323 bytes in 195 msecs (HTTP/1.1 200) 7 headers in 252 bytes (1 switches on core 1)
+[pid: 25811|app: 0|req: 3/8] 127.0.0.1 () {38 vars in 593 bytes} [Wed Oct 24 13:45:12 2018] GET /cart/count/ => generated 17 bytes in 2 msecs (HTTP/1.1 200) 7 headers in 249 bytes (1 switches on core 0)
+[pid: 25811|app: 0|req: 4/9] 127.0.0.1 () {38 vars in 592 bytes} [Wed Oct 24 14:13:15 2018] GET /cart/count/ => generated 17 bytes in 6 msecs (HTTP/1.1 200) 7 headers in 249 bytes (1 switches on core 1)

@@ -1,0 +1,2 @@
+86 path=Cms/front_end_pc/scripts/cuplayer/other/此目录下文件为广告示例.txt
+26 atime=1540359892.99539

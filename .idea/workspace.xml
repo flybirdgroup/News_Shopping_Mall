@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Dtcms/apps/goods/views.py" line="27" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1529b3e-2b78-4f29-bb82-7d80fecaaff2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/Dtcms/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#309#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/utils/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMS/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMS/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/apps/areas/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/apps/users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jwt_response_payload_handler</find>
+      <find>on_check_changed</find>
+      <find>2015-04-20 00:51:03</find>
+      <find>广东</find>
+      <find>apps.</find>
+      <find>DROP TABLE</find>
+      <find>db_cms</find>
+      <find>0000-00-00 00:00:00.000000</find>
+      <find>\&quot;\&quot;\&quot;\nDjango settings for DTcms project\.\n\nGenerated by \'django\-admin startproject\' using Django 1\.11\.11\.\n\nFor more information on this file\, see\nhttps\:\/\/docs\.djangoproject\.com\/en\/1\.11\/topics\/settings\/\n\nFor the full list of settings and their values\, see\nhttps\:\/\/docs\.djangoproject\.com\/en\/1\.11\/ref\/settings\/\n\&quot;\&quot;\&quot;\nimport datetime\nimport os\n\n\# Build paths inside the project like this\: os\.path\.join\(BASE_DIR\, \.\.\.\)\n\nBASE_DIR \= os\.path\.dirname\(os\.path\.dirname\(os\.path\.abspath\(__file__\)\)\)\n\n\n\# Quick\-start development settings \- unsuitable for production\n\# See https\:\/\/docs\.djangoproject\.com\/en\/1\.11\/howto\/deployment\/checklist\/\n\n\# SECURITY WARNING\: keep the secret key used in production secret\!\nSECRET_KEY \= \'j4g5fazv\&amp;831k\^z\+fooajm\*t\=yiz0\%8w_\@jj\-\^f4d0ydcg1\&amp;\@a\'\n\n\# SECURITY WARNING\: don\'t run with debug turned on in production\!\nDEBUG \= True\n\nALLOWED_HOSTS \= \[\]\n\n\# Application definition\nimport sys\nsys\.path\.insert\(0\, os\.path\.join\(BASE_DIR\, \'apps\'\)\)\n\n\nINSTALLED_APPS \= \[\n    \'django\.contrib\.admin\'\,\n    \'django\.contrib\.auth\'\,\n    \'django\.contrib\.contenttypes\'\,\n    \'django\.contrib\.sessions\'\,\n    \'django\.contrib\.messages\'\,\n    \'django\.contrib\.staticfiles\'\,\n\n    \'rest_framework\'\,\n    \'corsheaders\'\,          \# 实现跨域请求的第三方库\n    \'django_filters\'\,       \# 数据过滤功能\n\n    \# \'news\.NewsConfig\'\,            \# 新闻模块\n    \# \'goods\.GoodsConfig\'\,          \# 商品模块\n    \# \'users\.UsersConfig\'\,          \# 用户模块\n    \# \'areas\.AreasConfig\'\,          \# 区域管理\n\n    \'users\'\,\n    \'cart\'\,\n    \'goods\'\,\n    \'news\'\,\n    \'areas\'\,\n\]\n\n\# 注册自定义的用户模型类\nAUTH_USER_MODEL \= \'users\.User\'\n\n\# 富文本编辑器ckeditor配置\nCKEDITOR_CONFIGS \= \{\n    \'default\'\: \{\n        \'toolbar\'\: \'full\'\,  \# 工具条功能\n        \'height\'\: 300\,      \# 编辑器高度\n        \# \'width\'\: 300\,     \# 编辑器宽\n    \}\,\n\}\n\nCKEDITOR_UPLOAD_PATH \= \'\'  \# 上传图片保存路径\，使用了FastDFS\，所以此处设为\'\'\n\n\n\# 可以通过哪些ip或域名访问当前服务器\nCORS_ORIGIN_WHITELIST \= \(\n    \'127\.0\.0\.1\:8080\'\,\n\)\nCORS_ALLOW_CREDENTIALS \= True  \# 允许携带cookie\n\nMIDDLEWARE \= \[\n\n    \# 实现跨域请求添加的中间件类\n    \'corsheaders\.middleware\.CorsMiddleware\'\,\n\n    \'django\.middleware\.security\.SecurityMiddleware\'\,\n    \'django\.contrib\.sessions\.middleware\.SessionMiddleware\'\,\n    \'django\.middleware\.common\.CommonMiddleware\'\,\n    \'django\.middleware\.csrf\.CsrfViewMiddleware\'\,\n    \'django\.contrib\.auth\.middleware\.AuthenticationMiddleware\'\,\n    \'django\.contrib\.messages\.middleware\.MessageMiddleware\'\,\n    \'django\.middleware\.clickjacking\.XFrameOptionsMiddleware\'\,\n\]\n\nROOT_URLCONF \= \'Dtcms\.urls\'\n\nTEMPLATES \= \[\n    \{\n        \'BACKEND\'\: \'django\.template\.backends\.django\.DjangoTemplates\'\,\n\n        \'DIRS\'\: \[os\.path\.join\(BASE_DIR\, \'templates\'\)\]\,\n\n        \'APP_DIRS\'\: True\,\n        \'OPTIONS\'\: \{\n            \'context_processors\'\: \[\n                \'django\.template\.context_processors\.debug\'\,\n                \'django\.template\.context_processors\.request\'\,\n                \'django\.contrib\.auth\.context_processors\.auth\'\,\n                \'django\.contrib\.messages\.context_processors\.messages\'\,\n            \]\,\n        \}\,\n    \}\,\n\]\n\nWSGI_APPLICATION \= \'Dtcms\.wsgi\.application\'\n\n\n\# Database\n\# https\:\/\/docs\.djangoproject\.com\/en\/1\.11\/ref\/settings\/\#databases\nDATABASES \= \{\n    \# 连接远程的数据库\n    \'default\'\: \{\n        \'ENGINE\'\: \'django\.db\.backends\.mysql\'\,\n        \'NAME\'\: \'db_cms01\'\,\n        \'HOST\'\: \'localhost\'\,\n        \'USER\'\: \'root\'\,\n        \'PASSWORD\'\: \'mysql\'\,\n    \}\n\}\n\n\# Internationalization\n\# https\:\/\/docs\.djangoproject\.com\/en\/1\.11\/topics\/i18n\/\n\nLANGUAGE_CODE \= \'zh\-hans\'\nTIME_ZONE \= \'Asia\/Shanghai\'\n\nUSE_I18N \= True\nUSE_L10N \= True\nUSE_TZ \= True\n\n\n\# Static files \(CSS\, JavaScript\, Images\)\n\# https\:\/\/docs\.djangoproject\.com\/en\/1\.11\/howto\/static\-files\/\n\nSTATIC_URL \= \'\/static\/\'\n\n\# 认证后台\: 使用此backend\, 可以使用用户账号或电话号码进行登录\n\# AUTHENTICATION_BACKENDS \= \[\n\#     \'users\.utils\.UsernameMobileAuthBackend\'\,\n\# \]\n\nCACHES \= \{\n    \&quot;default\&quot;\: \{\n        \&quot;BACKEND\&quot;\: \&quot;django_redis\.cache\.RedisCache\&quot;\,\n        \&quot;LOCATION\&quot;\: \&quot;redis\:\/\/127\.0\.0\.1\:6379\/0\&quot;\,\n        \&quot;OPTIONS\&quot;\: \{\n            \&quot;CLIENT_CLASS\&quot;\: \&quot;django_redis\.client\.DefaultClient\&quot;\,\n        \}\n    \}\,\n    \&quot;session\&quot;\: \{\n        \&quot;BACKEND\&quot;\: \&quot;django_redis\.cache\.RedisCache\&quot;\,\n        \&quot;LOCATION\&quot;\: \&quot;redis\:\/\/127\.0\.0\.1\:6379\/1\&quot;\,\n        \&quot;OPTIONS\&quot;\: \{\n            \&quot;CLIENT_CLASS\&quot;\: \&quot;django_redis\.client\.DefaultClient\&quot;\,\n        \}\n    \}\,\n    \&quot;verify_codes\&quot;\: \{\n        \&quot;BACKEND\&quot;\: \&quot;django_redis\.cache\.RedisCache\&quot;\,\n        \&quot;LOCATION\&quot;\: \&quot;redis\:\/\/127\.0\.0\.1\:6379\/2\&quot;\,\n        \&quot;OPTIONS\&quot;\: \{\n            \&quot;CLIENT_CLASS\&quot;\: \&quot;django_redis\.client\.DefaultClient\&quot;\,\n        \}\n    \}\,\n    \&quot;cart\&quot;\: \{\n        \&quot;BACKEND\&quot;\: \&quot;django_redis\.cache\.RedisCache\&quot;\,\n        \&quot;LOCATION\&quot;\: \&quot;redis\:\/\/127\.0\.0\.1\:6379\/3\&quot;\,\n        \&quot;OPTIONS\&quot;\: \{\n            \&quot;CLIENT_CLASS\&quot;\: \&quot;django_redis\.client\.DefaultClient\&quot;\,\n        \}\n    \}\n\}\n\nSESSION_ENGINE \= \&quot;django\.contrib\.sessions\.backends\.cache\&quot;\nSESSION_CACHE_ALIAS \= \&quot;session\&quot;\n\n\nREST_FRAMEWORK \= \{\n    \'DEFAULT_AUTHENTICATION_CLASSES\'\: \(\n        \'rest_framework_jwt\.authentication\.JSONWebTokenAuthentication\'\,\n        \'rest_framework\.authentication\.SessionAuthentication\'\,\n        \'rest_framework\.authentication\.BasicAuthentication\'\,\n    \)\,\n\}\n\n\# JWT\nJWT_AUTH \= \{\n    \# token有效期1天\n    \'JWT_EXPIRATION_DELTA\'\: datetime\.timedelta\(days\=1\)\,\n    \# 指定一个函数\, 用来决定登录成功后需要返回哪些数据\n    \'JWT_RESPONSE_PAYLOAD_HANDLER\'\: \'users\.utils\.jwt_response_payload_handler\'\,\n\}\n\n\n\n\n\n</find>
+      <find>InnoDB</find>
+      <find>CREATE TABLE</find>
+      <find>remark</find>
+      <find>首页</find>
+      <find>news</find>
+      <find>新闻资讯</find>
+      <find>tabs</find>
+      <find>goodsTabs</find>
+      <find>index</find>
+      <find>body</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>2018-01-01 00:00:00.000000</replace>
+      <replace>CREATE TABLE IF NOT EXISTS</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dtcms/apps/users/utils.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/news.html" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/users/urls.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/news/urls.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/cart/serializers.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/cart.js" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_html/_header.html" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/areas/urls.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/users/serializers.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/_footer.html" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_html/_footer.html" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/areas/views.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/user_center_address.js" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_html/user_center_address.html" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/users/views.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/register.js" />
+        <option value="$PROJECT_DIR$/front_end_pc/css/validate.css" />
+        <option value="$PROJECT_DIR$/front_end_pc/register.html" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_html/css/validate.css" />
+        <option value="$PROJECT_DIR$/front_end_pc/user_center_address.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/cart.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/user_center_address_add.html" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_html/user_center_address_add.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/user_center_address_add.js" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/news/apps.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/areas/apps.py" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_html/login.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/js/list.js" />
+        <option value="$PROJECT_DIR$/front_end_pc/list.html" />
+        <option value="$PROJECT_DIR$/Dtcms/Dtcms/urls.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/goods/urls.py" />
+        <option value="$PROJECT_DIR$/front_end_pc/_header.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/goods.html" />
+        <option value="$PROJECT_DIR$/Dtcms/templates/static_origin/search.html" />
+        <option value="$PROJECT_DIR$/front_end_pc/index.html" />
+        <option value="$PROJECT_DIR$/Dtcms/utils/models.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/users/models.py" />
+        <option value="$PROJECT_DIR$/Dtcms/sql/cms.sql" />
+        <option value="$PROJECT_DIR$/front_end_pc/goods_detail.html" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/news/models.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/goods/views.py" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/goods/serializers.py" />
+        <option value="$PROJECT_DIR$/Dtcms/Dtcms/settings.py" />
+        <option value="$PROJECT_DIR$/Dtcms/uwsgi.ini" />
+        <option value="$PROJECT_DIR$/Dtcms/apps/news/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="11" />
+    <option name="y" value="23" />
+    <option name="width" value="1428" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cms" type="462c0819:PsiDirectoryNode" />
+              <item name="Dtcms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cms" type="462c0819:PsiDirectoryNode" />
+              <item name="Dtcms" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="SearchEverywhereHistoryKey" value="JWT_RESPONSE_PAYLOAD_HANDLER&#9;null&#9;null" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dtcms" />
+      <recent name="$PROJECT_DIR$/front_end_pc" />
+      <recent name="$PROJECT_DIR$/Dtcms/sql" />
+      <recent name="$PROJECT_DIR$/front_end_pc/js" />
+      <recent name="$PROJECT_DIR$/Dtcms/templates/static_origin/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dtcms/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Cms">
+    <configuration name="Cms" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cms" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration name="cms" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Dtcms.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/django_py3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cms" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.cms" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.Cms" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,HIDE_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1529b3e-2b78-4f29-bb82-7d80fecaaff2" name="Default" comment="" />
+      <created>1535795873538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535795873538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="11" y="23" width="1428" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26756352" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29895365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31713554" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2113997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32178932" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24903026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.79238755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19533074" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4110613" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969603" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26756352" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29895365" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29147983" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19610895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19533074" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17276265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4110613" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24903026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.79238755" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969603" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dtcms/apps/users/serializers.py</url>
+          <line>59</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://src:table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.auth_group_permissions" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.auth_group_permissions" />
+    <entry file="das://src:table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_goods_album" />
+    <entry file="das://src:table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.auth_group" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_user_groups" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_user" />
+    <entry file="file://$PROJECT_DIR$/Dtcms/sql/cms2.sql" />
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_areas" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_news" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_news_album" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_news_category" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_goods_album" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.tb_address" />
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_goods_category" />
+    <entry file="file://$PROJECT_DIR$/front_end_pc/js/news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/templates/static_origin/search.html" />
+    <entry file="file://$PROJECT_DIR$/Dtcms/templates/static_origin/goods_show.html" />
+    <entry file="file://$PROJECT_DIR$/front_end_pc/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6894">
+          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3960">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/goods.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/js/cart2.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3426f524-311c-46e1-9c8c-70f9ddabf282/console.sql" />
+    <entry file="file://$PROJECT_DIR$/front_end_pc/js/date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end_pc/goods_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3820">
+          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/goods/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/9124cd1a/3426f524-311c-46e1-9c8c-70f9ddabf282/db_cms01.t_goods" />
+    <entry file="file://$PROJECT_DIR$/Dtcms/uwsgi.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="41" lean-forward="false" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/uwsgi.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/areas/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/sql/cms.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/Dtcms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/areas/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/apps/news/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/Dtcms/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#309#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dtcms/utils/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
